@@ -1,7 +1,3 @@
-Team Members- 
-CS22MTECH12001    DEBIKA SAMANTA
-CS23MTECH12001    ARJIT GUPTA
-CS23MTECH14010    ROHIT SUTRAVE
 
 TASK 1: How to create keys and certificates
 	STEP 1: Commands given in the report to create the keys, csr's, ceritificates, verification for Root CA, Int CA, Alice, Bob
