@@ -1,3 +1,31 @@
+# Secure Chat Application
+
+This project involves creating a peer-to-peer secure chat application using DTLS 1.2 and UDP protocols. The application enables secure communication between two peers, Alice and Bob, in a way similar to HTTPS but in a peer-to-peer paradigm. The project also includes tasks related to secure communication, downgrade attacks, and active MITM attacks.
+
+## Features
+
+- Peer-to-peer chat using DTLS 1.2 and UDP
+- Handshake and secure communication setup
+- Session resumption using session tickets
+- Downgrade and MITM attack simulations
+- Certificate handling and verification
+
+## Prerequisites
+
+- C/C++ Development Environment
+- OpenSSL
+- Wireshark (for capturing Pcap traces)
+- `tcpdump` (for capturing Pcap traces)
+- Basic understanding of DTLS and TLS
+
+## Setup and Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/secure-chat-app.git
+cd secure-chat-app
+```
 
 TASK 1: How to create keys and certificates
 	STEP 1: Commands given in the report to create the keys, csr's, ceritificates, verification for Root CA, Int CA, Alice, Bob
